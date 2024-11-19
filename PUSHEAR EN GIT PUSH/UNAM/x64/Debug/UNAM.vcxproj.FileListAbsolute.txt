@@ -1,0 +1,3 @@
+C:\Users\narva\source\repos\UNAM\UNAM\x64\Debug\UNAM.vcxproj.AssemblyReference.cache
+C:\Users\narva\source\repos\UNAM\UNAM\x64\Debug\UNAM.Form1.resources
+C:\Users\narva\source\repos\UNAM\UNAM\x64\Debug\UNAM.vcxproj.GenerateResource.cache
